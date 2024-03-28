@@ -1,2 +1,0 @@
-
-volume (Euclidean) = 64311.8025639
